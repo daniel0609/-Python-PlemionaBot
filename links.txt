@@ -1,0 +1,9 @@
+//swiat
+pl122
+
+//podaj numer swojej wioski
+83623
+
+//podaj coordy
+285|327
+
